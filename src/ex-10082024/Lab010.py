@@ -1,0 +1,2 @@
+Long_varaible_exapmple_for_learning=10
+print(Long_varaible_exapmple_for_learning)
