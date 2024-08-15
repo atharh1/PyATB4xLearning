@@ -5,3 +5,4 @@ sum=a+b+c
 sum=sum-1
 sum=sum+10
 print(sum)
+print(sum)
