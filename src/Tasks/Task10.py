@@ -6,8 +6,11 @@ num=int(input("Enter the number : "))
 if num == 0 or num == 1:
     print(1)
 else:
-    for i in range(1,num,1):
-        num = num * i
-    print(num)
+    fact=1
+    for i in range(1,num+1,1):
+        fact = fact * i
+        print(i,fact)
+    print(fact)
+
 
 
